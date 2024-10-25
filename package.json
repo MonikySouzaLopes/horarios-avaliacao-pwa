@@ -1,0 +1,15 @@
+{
+  "name": "horarios-avaliacao-pwa",
+  "version": "1.0.0",
+  "description": "Avaliação Prática PDM",
+  "main": ": index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Anielly Teixeira e Moniky Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

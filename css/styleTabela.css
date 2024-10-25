@@ -1,0 +1,34 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    border: 4px;
+    }
+  
+  .cabecalho {
+    background: #dedede;
+    color: #000000;
+     border: 4px solid #dddddd;
+  }
+  tbody {
+    background: #F9F9F9;
+  }
+  
+  .linha {
+    background: #DDDDDD;
+  }
+  
+  .coluna {
+    background: #ececec;
+  }
+  
+  th {
+    border: 4px solid #dddddd;
+  }
+  
+  td {
+    border: 4px solid #FFFFFF; 
+  }
+  
+  
+  
