@@ -1,4 +1,17 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.tabela1{
+  margin-left: 570px;
+}
+
 table {
+    position: relative;
+    margin-left: 450px;
     text-align: center;
     border-collapse: collapse;
     width: 100%;
@@ -30,13 +43,6 @@ table {
     border: 4px solid #FFFFFF; 
   }
   
-  .remota{
-    background-color: #fff719;
-  }
-  
-  .presencial{
-    background-color: #2d31ff;
-  }
 
   button {
     position: absolute;
